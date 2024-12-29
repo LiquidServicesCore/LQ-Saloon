@@ -15,5 +15,5 @@
 - rsg-target 
 
 
--[RSG Framework](https://github.com/Rexshack-RedM)
+[RSG Framework](https://github.com/Rexshack-RedM)
 
