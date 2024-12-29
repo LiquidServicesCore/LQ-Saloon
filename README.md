@@ -15,7 +15,5 @@
 - rsg-target 
 
 
-### Credit where due
 -[RSG Framework](https://github.com/Rexshack-RedM)
 
-Thanks to RexShack for their work with rsg-trapperplus and rsg-trapper for base work
