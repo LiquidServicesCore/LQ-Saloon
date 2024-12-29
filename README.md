@@ -1,14 +1,7 @@
-# QC-advanced-trapper
-A remade version of rsg-trapperplus. a fully open source hunting script. Including legendary and bait spawning. Giving the ability for looting all creatures in RedM 
-# YOU CAN NOW CHOOSE TO USE OXLIB or RSG-MENU for the script through the config :)
+# LQ-Saloon
 
-- Separate pictures for different pelts and levels
-- Multiple loot items
-- Configurable loot chance
-- Configurable loot amount
-- Configurable Legendary Animal Spawn/Hunting Zones
-- Configurable Baits for Different Animals
-- Baits spawn props now!!
+
+
 
 # UPDATED RECENTLY FOR NEW RSG CORE
 
