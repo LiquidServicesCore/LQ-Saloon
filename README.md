@@ -21,9 +21,10 @@ A remade version of rsg-trapperplus. a fully open source hunting script. Includi
 - rsg-trapper : https://github.com/Rexshack-RedM/rsg-trapper
 - rsg-trapperplus : https://github.com/Rexshack-RedM/rsg-trapperplus
 
-# Dependancies
+# dependencies
 - rsg-core 
-- rsg-menu  or ox_lib              --Use my Menu for better look overall : https://github.com/Artmines/rsg-menu
+- ox_lib 
+- rsg-target 
 
 # Installation
 - remove rsg-holding if you have it added
