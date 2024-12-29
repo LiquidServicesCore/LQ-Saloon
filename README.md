@@ -5,8 +5,8 @@
 
 # UPDATED RECENTLY FOR NEW RSG CORE
 
-# Quantum Project
-[Quantum Projects Discord](https://discord.gg/kJ8ZrGM8TS)
+# Liquid Services
+[Liquid Services  Discord](https://discord.gg/dJ3PUTXU8F)
 
 # Important
 - before you use this resouce please ensure the following has been removed from your server as these were merged :)
