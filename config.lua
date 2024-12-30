@@ -301,7 +301,7 @@ Config.SaloonCrafting = {
             [3] = { item = '', amount = 1 },
             [4] = { item = '',   amount = 1 },
         },
-        receive = 'applepie',
+        receive = '',
         giveamount = 5
     },
 
