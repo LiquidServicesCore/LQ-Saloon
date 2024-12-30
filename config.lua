@@ -175,7 +175,7 @@ Config.SaloonCrafting = {
             [4] = { item = 'water',  amount = 1 },
             [5] = { item = 'bottle', amount = 1 },
         },
-        receive = 'beer',
+        receive = '',
         giveamount = 3
     },
     {
@@ -187,7 +187,7 @@ Config.SaloonCrafting = {
             [3] = { item = 'water',  amount = 5 },
             [4] = { item = 'bottle', amount = 5 },
         },
-        receive = 'whiskey',
+        receive = '',
         giveamount = 5
     },
     {
@@ -199,16 +199,16 @@ Config.SaloonCrafting = {
             [3] = { item = 'water',  amount = 5 },
             [4] = { item = 'bottle', amount = 5 },
         },
-        receive = 'tequila',
+        receive = '',
         giveamount = 5
     },
     {
         category = 'Drinks',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'water',   amount = 2 },
-            [2] = { item = 'coffee_beans',   amount = 10 },
-            [3] = { item = 'sugarcube',  amount = 5 },
+            [1] = { item = '',   amount = 2 },
+            [2] = { item = '',   amount = 10 },
+            [3] = { item = '',  amount = 5 },
         },
         receive = 'coffee',
         giveamount = 5
@@ -219,11 +219,11 @@ Config.SaloonCrafting = {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'raw_meat', amount = 1 },
-            [2] = { item = 'carrot',   amount = 1 },
-            [3] = { item = 'broccoli', amount = 1 },
-            [4] = { item = 'potato',   amount = 1 },
-            [5] = { item = 'tomato',    amount = 1 },
+            [1] = { item = '', amount = 1 },
+            [2] = { item = '',   amount = 1 },
+            [3] = { item = '', amount = 1 },
+            [4] = { item = '',   amount = 1 },
+            [5] = { item = '',    amount = 1 },
         },
         receive = 'stew',
         giveamount = 3
@@ -232,37 +232,37 @@ Config.SaloonCrafting = {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'raw_fish', amount = 1 },
-            [2] = { item = 'carrot',   amount = 1 },
-            [3] = { item = 'water', amount = 3 },
-            [4] = { item = 'potato',   amount = 1 },
-            [5] = { item = 'tomato',    amount = 1 },
+            [1] = { item = '', amount = 1 },
+            [2] = { item = '',   amount = 1 },
+            [3] = { item = '', amount = 3 },
+            [4] = { item = '',   amount = 1 },
+            [5] = { item = '',    amount = 1 },
         },
-        receive = 'fish_soup',
+        receive = '',
         giveamount = 3
     },
     {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'mutton_meat', amount = 2 },
-            [2] = { item = 'carrot',   amount = 1 },
-            [3] = { item = 'broccoli', amount = 1 },
-            [4] = { item = 'potato',   amount = 1 },
-            [5] = { item = 'tomato',   amount = 1 },
+            [1] = { item = '', amount = 2 },
+            [2] = { item = '',   amount = 1 },
+            [3] = { item = '', amount = 1 },
+            [4] = { item = '',   amount = 1 },
+            [5] = { item = '',   amount = 1 },
         },
-        receive = 'cookmutton',
+        receive = '',
         giveamount = 5
     },
     {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'pork_meat', amount = 2 },
-            [2] = { item = 'carrot',   amount = 1 },
-            [3] = { item = 'broccoli', amount = 1 },
-            [4] = { item = 'potato',   amount = 1 },
-            [5] = { item = 'tomato',   amount = 1 },
+            [1] = { item = '', amount = 2 },
+            [2] = { item = '',   amount = 1 },
+            [3] = { item = '', amount = 1 },
+            [4] = { item = '',   amount = 1 },
+            [5] = { item = '',   amount = 1 },
         },
         receive = 'fried_pork',
         giveamount = 5
@@ -271,10 +271,10 @@ Config.SaloonCrafting = {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'pork_meat', amount = 2 },
-            [2] = { item = 'corn',   amount = 2 },
-            [3] = { item = 'carrot', amount = 1 },
-            [4] = { item = 'artichoke',   amount = 1 },
+            [1] = { item = '', amount = 2 },
+            [2] = { item = '',   amount = 2 },
+            [3] = { item = '', amount = 1 },
+            [4] = { item = '',   amount = 1 },
         },
         receive = 'cornbeef',
         giveamount = 5
@@ -283,23 +283,23 @@ Config.SaloonCrafting = {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'chicken_meat', amount = 2 },
-            [2] = { item = 'corn',   amount = 2 },
-            [3] = { item = 'carrot', amount = 1 },
-            [4] = { item = 'potato',   amount = 1 },
-            [5] = { item = 'water',   amount = 1 },
+            [1] = { item = '', amount = 2 },
+            [2] = { item = '',   amount = 2 },
+            [3] = { item = '', amount = 1 },
+            [4] = { item = '',   amount = 1 },
+            [5] = { item = '',   amount = 1 },
         },
-        receive = 'chicken_soup',
+        receive = '',
         giveamount = 3
     },
     {
         category = 'Food',
         crafttime = 10000,
         ingredients = { 
-            [1] = { item = 'apple', amount = 2 },
-            [2] = { item = 'sugar',   amount = 2 },
-            [3] = { item = 'yeast', amount = 1 },
-            [4] = { item = 'water',   amount = 1 },
+            [1] = { item = '', amount = 2 },
+            [2] = { item = '',   amount = 2 },
+            [3] = { item = '', amount = 1 },
+            [4] = { item = '',   amount = 1 },
         },
         receive = 'applepie',
         giveamount = 5
